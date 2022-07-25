@@ -32,8 +32,8 @@ Mobile Solution Screenshot
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ben-Bot-22/Product-Preview-Card)
-- Live Site URL: [Add live site URL here](https://ben-bot-22.github.io/Product-Preview-Card/)
+- Solution URL: [Code on GitHub](https://github.com/Ben-Bot-22/Product-Preview-Card)
+- Live Site URL: [GitHub pages live URL](https://ben-bot-22.github.io/Product-Preview-Card/)
 
 ## My process
 
